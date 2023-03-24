@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CpGassoc"]
+	path = CpGassoc
+	url = https://github.com/cran/CpGassoc
+	shallow = true
+	registered = true
